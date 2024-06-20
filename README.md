@@ -1,4 +1,4 @@
-# CpuScheduler
+# **Cpu Scheduler**
 
 It is a system software component in an operating system that is responsible for managing process execution by CPU. Its function is to decide which process in the ready queue should be executed by CPU, allocation of that process to CPU acc. to specific algorithm. It also ensures that processes get appropriate CPU time for execution, especially in time shared systems.
 CPU Scheduling is very important because, 
